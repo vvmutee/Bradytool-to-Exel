@@ -40,7 +40,7 @@
 ## Установка
 
 ```bash
-git clone https://github.com/<username>/bradytool-parser.git
+git clone https://github.com/vvmutee/bradytool-parser.git
 cd bradytool-parser
 pip install -r requirements.txt
 ```
